@@ -1,0 +1,24 @@
+
+Gsquid:S1148¡"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ8ðÝ×‚¥-
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(‘Ô ¦ÿÿÿÿÿ8áÐŠ÷¤-
+Xsquid:S3398¬"4Move this method into "MicrophoneRecognizeDelegate".(½¸°Èþÿÿÿÿ8¥²š„¥-
+{squid:S1450"XRemove the "tvMessage" field and declare it as a local variable in the relevant methods.(©ù‘üüÿÿÿÿ8Ö›‡÷¤-
+nsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(·Û‡´úÿÿÿÿ8§ïå‚¥-
+isquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(…ÿìì8¿ú¯„¥-
+isquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(ƒ¢ŠŽ8û¿¥„¥-
+hsquid:UnusedPrivateMethod}"<Remove this unused private "initSpeechToTextService" method.(²“ï…8‚Úƒ€¥-
+}squid:S1450#"_Remove the "microphoneHelper" field and declare it as a local variable in the relevant methods.(ëëíÑ8Ð½ã‚¥-
+msquid:S2674t"JCheck the return value of the "read" call to see how many bytes were read.(ž”ê†úÿÿÿÿ8ÐÓ“ö¤-
+isquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(À”«8¿ú¯„¥-
+jsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(¥ªÀÕ8÷˜„¥-
+osquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(­†¡ëþÿÿÿÿ8«¿›„¥-
+Psquid:S1068"-Remove this unused "tvMessage" private field.(©ù‘üüÿÿÿÿ8§ïå‚¥-
+isquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(²ôžˆ8¿ú¯„¥-
+nsquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(×§ŠÕüÿÿÿÿ8¿ú¯„¥-
+W
+squid:S106“"9Replace this use of System.out or System.err by a logger.(†àÍ8ðÝ×‚¥-
+Gsquid:S1148±"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¥²š„¥-
+zsquid:S1450%"\Remove the "speechService" field and declare it as a local variable in the relevant methods.(´ùÙ´8×œã‚¥-
+qsquid:S2095r"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Þ›”Êùÿÿÿÿ8ÐÓ“ö¤-
+nsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(ã¹Ëúøÿÿÿÿ8¿ú¯„¥-
+jsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(¥ªÀÕ8¡ßà‚¥-

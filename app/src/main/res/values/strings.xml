@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="speech_prompt">say something</string>
+    <string name="speech_not_supported">speech not supported</string>
+    <string name="speech_text_username">username</string>
+    <string name="speech_text_password">password</string>
+    <string name="speech_text_url">url</string>
+</resources>
